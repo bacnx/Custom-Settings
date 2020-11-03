@@ -24,7 +24,7 @@
     //   and can be invoked from the commandline with `wt.exe -p xxx`
     // To learn more about profiles, visit https://aka.ms/terminal-profile-settings
 
-	"initialCols": 86,
+    "initialCols": 86,
     "initialRows": 24,
 
     "profiles":
